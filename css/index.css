@@ -11,9 +11,9 @@
 
 #hero-img {
   margin-top: -60px;
-  background: url("https://diannurfarida.com/wp-content/uploads/2023/03/HEADER-WEB.png");
+  background: url("../img/banner.jpeg");
   background-size: cover;
-  height: 550px;
+  height: 450px;
 }
 
 #about {
